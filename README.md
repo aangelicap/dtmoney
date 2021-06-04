@@ -1,6 +1,5 @@
 # dt money
 Uma aplicação que ajuda o usuário a controlar suas finanças! :)
-
 #
 
 run with
