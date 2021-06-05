@@ -18,7 +18,7 @@ createServer({
           title: 'Freelancer web',
           type: 'deposit',
           category: 'Job',
-          amount: 6000,
+          amount: 1000,
           createdAt: new Date('2021-05-12 09:00:03'),
         },
         {
@@ -26,7 +26,7 @@ createServer({
           title: 'Compra de equipamentos',
           type: 'withdraw',
           category: 'Job',
-          amount: 10000,
+          amount: 100,
           createdAt: new Date('2021-06-12 09:00:03'),
         },
         {
@@ -34,7 +34,7 @@ createServer({
           title: 'Compra de mercado',
           type: 'withdraw',
           category: 'Comida',
-          amount: 50,
+          amount: 300,
           createdAt: new Date('2021-06-12 09:00:03'),
         },
         {
@@ -42,7 +42,7 @@ createServer({
           title: 'Salário mensal',
           type: 'deposit',
           category: 'Job',
-          amount: 5000,
+          amount: 4000,
           createdAt: new Date('2021-06-01 09:00:03'),
         },
         {
@@ -50,7 +50,7 @@ createServer({
           title: 'Viagem',
           type: 'withdraw',
           category: 'Lazer',
-          amount: 1100,
+          amount: 1600,
           createdAt: new Date('2021-06-06 09:00:03'),
         },
       ]
