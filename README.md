@@ -8,7 +8,9 @@ Aprendizados: Componentização, Propriedades, Estado, Criação e uso de Hooks,
 
 #
 
-run with
-#### $ `yarn start`
-open in http://localhost:3000/
 
+Run with:
+```bash
+yarn start
+```
+Open in [http://localhost:3000](http://localhost:3000)
