@@ -64,8 +64,8 @@ export function NewTransacrionModal({ isOpen, onRequestClose }: NewTransationMod
             <input
                 type="number"
                 placeholder="Valor"
-                value={amount}
                 onChange={event => setAmount(Number(event.target.value))}
+                value={amount === 0 ? '' : amount }
             />
 
             <TransactionTypeContainer>
