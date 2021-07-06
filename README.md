@@ -14,3 +14,6 @@ Run with:
 yarn start
 ```
 Open in [http://localhost:3000](http://localhost:3000)
+#
+
+![img](capture.gif)
